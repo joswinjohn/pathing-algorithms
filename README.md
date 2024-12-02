@@ -5,6 +5,9 @@ Deployed to https://joswinjohn.com
 
 ## Run from Source
 ```PowerShell
+git clone "https://github.com/joswinjohn/pathing-algorithms.git"
+cd pathing-algorithms
+
 npm run dev
 ```
 
