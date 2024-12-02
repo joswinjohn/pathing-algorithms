@@ -1,5 +1,4 @@
 import { NextResponse } from "next/server";
-import { PriorityQueue } from '@datastructures-js/priority-queue';
 
 export async function POST(request: Request) {
     const reqbody = await request.json();

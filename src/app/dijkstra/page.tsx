@@ -1,8 +1,7 @@
 'use client';
 
 import Image from "next/image";
-import { FormEvent } from 'react';
-import { useState, useEffect } from 'react';
+import { useState } from 'react';
 
 export default function Home() {
   let [matrix, setMatrix] = useState<number[][]>([
