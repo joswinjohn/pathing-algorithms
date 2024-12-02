@@ -8,6 +8,7 @@ Deployed to https://joswinjohn.com
 git clone "https://github.com/joswinjohn/pathing-algorithms.git"
 cd pathing-algorithms
 
+npm install .
 npm run dev
 ```
 
